@@ -1,0 +1,13 @@
+{
+    "name": "samuelayo/contactform",
+    "description": "test",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Samuelayo\\Contactform\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
